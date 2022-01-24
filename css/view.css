@@ -1,0 +1,9 @@
+body{
+	background-color: black;
+}
+
+@media screen (max-width-575px) and (min-width: 0px) {
+  body {
+    background-color: lightgreen;
+  }
+} 
